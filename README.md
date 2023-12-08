@@ -6,7 +6,7 @@
 
 🌐 Aspiring to make a mark in the digital landscape, I'm particularly keen on web technologies, and you'll often find me experimenting with the latest frameworks and libraries.
 
-🚀 Let's connect, collaborate, and code together! Open to learning, contributing, and exploring the endless possibilities of the coding universe. 🤝
+🚀 Let's connect, collaborate, and code together! Open to learning, contributing, and exploring the endless possibilities of the coding universe.
 
 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/veetiauria/)
 
