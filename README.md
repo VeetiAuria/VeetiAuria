@@ -1,6 +1,6 @@
 👋 Hello World! I'm Veeti Auria, a passionate learner and aspiring developer currently navigating the exciting world of coding in school. 🚀
 
-🎓 I'm a student, diving deep into the realms of programming and software development. My current focus is on mastering the trifecta of web development: **JavaScript**, **HTML**, and **CSS**.
+🎓 I'm a student, diving deep into the realms of programming and software development. My current focus is mainly on : **JavaScript**, **HTML**, and **CSS**.
 
 💻 My coding journey is a work in progress, and I'm enthusiastic about building projects that not only sharpen my skills but also contribute to the tech community.
 
